@@ -17,7 +17,7 @@ class Main extends React.Component {
     const url = "https://quotes.rest/quote/random";
 
     this.setState({
-      quote: "Thinking purrr..."
+      quote: "Loading..."
     })
 
     fetch(url, {

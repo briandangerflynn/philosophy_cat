@@ -14,7 +14,7 @@ class Main extends React.Component {
 
   getQuote() {
     const apiKey = "IbS_pi4yPKyL7suY6RADFAeF";
-    const url = "http://quotes.rest/quote/random";
+    const url = "https://quotes.rest/quote/random";
 
     this.setState({
       quote: "Thinking purrr..."

@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/philosophy_cat/static/js/runtime~main.1bf6df18.js"
   },
   {
-    "revision": "a503b7b17e35e87c9bf4",
-    "url": "/philosophy_cat/static/js/main.a503b7b1.chunk.js"
+    "revision": "8cf7fab7d2efd4597b4f",
+    "url": "/philosophy_cat/static/js/main.8cf7fab7.chunk.js"
   },
   {
     "revision": "09689009d67fed834754",
     "url": "/philosophy_cat/static/js/1.09689009.chunk.js"
   },
   {
-    "revision": "a503b7b17e35e87c9bf4",
-    "url": "/philosophy_cat/static/css/main.29587d13.chunk.css"
+    "revision": "8cf7fab7d2efd4597b4f",
+    "url": "/philosophy_cat/static/css/main.7b9b75ea.chunk.css"
   },
   {
-    "revision": "901aba81009199891238ae23ca8e4ae0",
+    "revision": "d9454d3825c8c31adcfe8f0509628fe4",
     "url": "/philosophy_cat/index.html"
   }
 ];

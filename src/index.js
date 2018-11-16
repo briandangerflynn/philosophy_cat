@@ -48,7 +48,7 @@ class Main extends React.Component {
         </header>
         <main>
           <section id="cat-image">
-            <img src="https://t1.ea.ltmcdn.com/en/images/2/0/5/img_my_cat_is_depressed_1502_paso_0_600.jpg"/>
+            <img alt="A sad, philosophical cat" src="https://t1.ea.ltmcdn.com/en/images/2/0/5/img_my_cat_is_depressed_1502_paso_0_600.jpg"/>
           </section>
           <section id="cat-text">
             <div id="quote-box">

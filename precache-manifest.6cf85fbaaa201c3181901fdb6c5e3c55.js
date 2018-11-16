@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/philosophy_cat/static/css/main.7b9b75ea.chunk.css"
   },
   {
-    "revision": "8c79fb03826a0c8f9e15a3db0111f4cb",
+    "revision": "703f82e81ce2e9f9b50905ff1064bd03",
     "url": "/philosophy_cat/index.html"
   }
 ];
